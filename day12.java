@@ -25,7 +25,7 @@ public class day12 {
         System.out.println(angkatan);
         System.out.println(tinggiB);
         System.out.println(beratB);
-        }
-        }
+        
+        
     }
 }

@@ -1,0 +1,14 @@
+public class day27_evaluasi {
+    public static void main(String[] args) {
+        int panjang = 10;
+        int lebar = 4;
+        int papankecil = 2;
+
+        int papan = (panjang * lebar ) / (papankecil *1);
+
+        System.out.println("Jumlah papan kecil yang muat : " + papan);
+
+
+
+    }
+}
